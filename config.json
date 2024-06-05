@@ -1,0 +1,38 @@
+{
+    "ownerId":"482950509775290372",
+    "token":"MTE4MjczMzM0MTQwNjAwMzI0MA.Gky9kt.uAY8sUK0imWuDEo1yR0hD1HyAxWoXB2cICRVAg",
+    "sugerir_canal":"1216866191092613191",
+    "ticket":{
+        "ticket1":{
+            "nome":"Ayuda",
+            "desc":"Este ticket se utiliza para recibir ayuda sobre el server de mta y/o discord.",
+            "categoria":"1232168131930357780"
+        },
+        "ticket2":{
+            "nome":"Dudas",
+            "desc":"Este ticket se utiliza para realizar alguna pregunta.",
+            "categoria":"1232168030113501214"
+        },
+        "ticket3":{
+            "nome":"Reportes",
+            "desc":"Este ticket se utiliza para reportar un jugador/admin.",
+            "categoria":"1234229036465787061"
+        }
+        },
+    "call_connect":"1233034945602257018",
+    "embedgeral":"#00ff00",
+    "formulario":{
+        "pergunta_1":{
+            "pergunta":"¿Por qué desea ser parte de la facción?",
+            "descrição":"Defina lo que deba decir."
+        },
+        "pergunta_2":{
+            "pergunta":"¿Usted cree tener conocimiento de rol suficiente para pertenecer?",
+            "descrição":"Defina lo que deba decir."
+        },
+        "pergunta_3":{
+            "pergunta":"¿Que tiempo del día usted se encuentra activo?",
+            "descrição":"Defina lo que deba decir."
+        }
+    }
+}
